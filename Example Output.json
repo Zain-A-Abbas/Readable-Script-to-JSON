@@ -1,0 +1,16 @@
+{
+
+	"Example Dialogue Group": {
+		"1" : {"speaker":"Kausar", "text": "This is an example line."},
+		"2" : {"speaker":"Saule", "text": "What a coincidence. This is also an example line."},
+		"3" : {"speaker":"Han", "text": "The number of whitespace lines between lines of dialogue is irrelevant."}
+	},
+
+	"Example Group 2": {
+		"1" : {"speaker":"Kausar", "text": "What a day."},
+		"2" : {"speaker":"Han", "text": "Yeah, right."},
+		"3" : {"speaker":"Saule", "text": "So, what’s up today?"},
+		"4" : {"text": "Suddenly, a loud crash is heard!"},
+		"5" : {"speaker":"Kausar", "text": "What?"}
+	}
+}

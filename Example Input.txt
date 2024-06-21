@@ -1,0 +1,19 @@
+Example Output
+>Example Dialogue Group
+
+Kausar: This is an example line.
+
+Saule: What a coincidence. This is also an example line.
+
+
+Han: The number of whitespace lines between lines of dialogue is irrelevant.
+
+>Example Group 2
+Kausar: What a day.
+// Translator’s note: “What a day” is a way to express that events throughout the day have been remarkable or unusual, in a good way or a bad way
+Han: Yeah, right.
+// Note: “Yeah, right.” is sarcastic. Han is poking fun at Kausar, implying in a friendly, joking manner that Kausar is overreacting to whatever events prompted them to say “What a day.”
+
+Saule: So, what’s up today?
+:Suddenly, a loud crash is heard!
+Kausar: What?
